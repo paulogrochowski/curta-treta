@@ -1,0 +1,78 @@
+[
+  {
+    "arquivo": "clipe_01\\primeiro_frame.png",
+    "sha256": "f608b9659586f51e98e4cfafbce5297c58b387d1f78fbe79b6455475e94c273d"
+  },
+  {
+    "arquivo": "clipe_01\\prompt.txt",
+    "sha256": "744f2e1bd7e8a2ba7d4593472ba9eec6c1d7d476fe13e5e22a306aa8e724f304"
+  },
+  {
+    "arquivo": "clipe_01\\ultimo_frame.png",
+    "sha256": "ab88d48e194349020b30376069c56df11f547cdebc3d760b213e9f6ccd3dcacf"
+  },
+  {
+    "arquivo": "clipe_02\\primeiro_frame.png",
+    "sha256": "ab88d48e194349020b30376069c56df11f547cdebc3d760b213e9f6ccd3dcacf"
+  },
+  {
+    "arquivo": "clipe_02\\prompt.txt",
+    "sha256": "196bdb732a046b93e9863730287a9f97f8109e70f19e0ff1e67f68079b8826f6"
+  },
+  {
+    "arquivo": "clipe_02\\ultimo_frame.png",
+    "sha256": "bf51aa74f3eaac15ffe82d9baff4354f8c50631cc065e71b76f8f4955c533523"
+  },
+  {
+    "arquivo": "clipe_03\\primeiro_frame.png",
+    "sha256": "bf51aa74f3eaac15ffe82d9baff4354f8c50631cc065e71b76f8f4955c533523"
+  },
+  {
+    "arquivo": "clipe_03\\prompt.txt",
+    "sha256": "f9b0e3c0edc6853e370c23d7d947a1efd8a5bfc3dd1c9b7fef8cad9a021965eb"
+  },
+  {
+    "arquivo": "clipe_03\\ultimo_frame.png",
+    "sha256": "012799da77097f7b56a53bfc158339e1bae32f5fe9ecdcbf04426d51d0db3629"
+  },
+  {
+    "arquivo": "clipe_04\\primeiro_frame.png",
+    "sha256": "012799da77097f7b56a53bfc158339e1bae32f5fe9ecdcbf04426d51d0db3629"
+  },
+  {
+    "arquivo": "clipe_04\\prompt.txt",
+    "sha256": "e2549277374dfbfb3db907b45308302d598aca3ad42773e8068b1fd9d3214142"
+  },
+  {
+    "arquivo": "clipe_04\\ultimo_frame.png",
+    "sha256": "b579d75a716ec156b7d3c4b808a1768531efbf9e24d87af32f77a6016e91046d"
+  },
+  {
+    "arquivo": "clipe_05\\primeiro_frame.png",
+    "sha256": "b579d75a716ec156b7d3c4b808a1768531efbf9e24d87af32f77a6016e91046d"
+  },
+  {
+    "arquivo": "clipe_05\\prompt.txt",
+    "sha256": "e6f571adcbc44c0b7cc2947bb3e039b91a051229d9942a5c347f25e13f9fac8d"
+  },
+  {
+    "arquivo": "clipe_05\\ultimo_frame.png",
+    "sha256": "3b18e2b83b235098f9db0d96fa85c4e4e01ec61de9ccc304e89e98b28899cd5d"
+  },
+  {
+    "arquivo": "clipe_06\\primeiro_frame.png",
+    "sha256": "3b18e2b83b235098f9db0d96fa85c4e4e01ec61de9ccc304e89e98b28899cd5d"
+  },
+  {
+    "arquivo": "clipe_06\\prompt.txt",
+    "sha256": "33afd6aef1e1f5d7da85a2d914ce69a85e553da82afbaeaec93108b5dc9fc49d"
+  },
+  {
+    "arquivo": "clipe_06\\ultimo_frame.png",
+    "sha256": "8765a0beff773bb7cae7c3b58098297711990680a53225d0d011627f69cad6e1"
+  },
+  {
+    "arquivo": "LEIA-ME.txt",
+    "sha256": "8b03a8834829311c7a285918e86573e35516da864324d0d79db5a56e224f9228"
+  }
+]

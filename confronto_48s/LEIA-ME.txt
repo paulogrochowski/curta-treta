@@ -1,0 +1,12 @@
+﻿O CONFRONTO — PRIMEIRA PARTE
+6 clipes x 8 segundos = 48 segundos.
+
+Cada pasta contém prompt.txt, primeiro_frame.png e ultimo_frame.png. Carregue os frames nas opções de imagem inicial e final quando disponíveis no modelo escolhido. Cole o prompt, escolha 16:9, 1080p e 8 segundos. Gere na ordem 01 a 06.
+
+O ultimo_frame de cada clipe é uma cópia binária do primeiro_frame do seguinte. Isso garante a continuidade entre as imagens fornecidas; o gerador de vídeo ainda pode variar rostos e movimento. Se houver deriva, use o frame real final do vídeo gerado como início da próxima geração.
+
+Os frames são imagens de planejamento, não frames extraídos de vídeos já produzidos. Nenhum vídeo está incluído. Falas podem ser gravadas separadamente se o modelo não oferecer áudio ou não reproduzir o texto corretamente.
+
+Roteiro adaptado exclusivamente do trecho disponível na conversa: chegada, discussão e confronto, incluindo os movimentos resumidos na resposta fornecida. Sem desfecho ou consequências inventadas. Nenhuma referência visual anexada ficou acessível nesta execução; personagens fictícios definidos pelo texto.
+
+RESOLUÇÃO DOS FRAMES: 1672 x 941 pixels, formato horizontal aproximadamente 16:9 (proporção nativa entregue pelo gerador). Os prompts pedem vídeo 16:9 em 1080p. As imagens não são 1920 x 1080.

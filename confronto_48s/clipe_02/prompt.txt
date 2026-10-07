@@ -1,0 +1,14 @@
+﻿CLIPE 02 — Discussão
+DURAÇÃO: 8 segundos | TEMPO: 08s–16s
+
+PROMPT PARA COLAR NO FIREFLY
+Vídeo de 8 segundos, 16:9, 1080p. Live action fotorrealista, drama criminal e suspense cinematográfico. Rua residencial brasileira à noite, asfalto úmido, postes amarelos, céu azul-escuro, árvores, muros e portões. Mesmos dois homens adultos e mesmas identidades dos frames de referência. Paulo: cabelo curto escuro, óculos escuros, bermuda preta, chinelos pretos, tatuagens pretas no pescoço, peito, ombro, braço direito e panturrilha esquerda. Camiseta branca Oakley até sua retirada no clipe 03; depois permanece sem camisa. Átila: barba curta, camiseta cinza-clara, jeans azul, sapatos pretos, boné preto sob o capacete preto; boné permanece após retirar o capacete. Lambreta elétrica preta com banco permanece estacionada à direita após o clipe 01. Luz e cenário constantes, anatomia natural. Sem sangue, ferimentos explícitos, armas, gore, animação, aparência 3D, legendas, texto sobreposto ou personagens adicionais.
+
+AÇÃO: Os dois se encaram. Paulo diz: “Quer confusão?” e depois “Se eu fosse você, eu ia embora e voltava quando cê tiver sóbrio.” Átila dá um passo e responde: “Eu quero é briga.” Terminar com os dois próximos, mãos ainda abaixadas.
+CÂMERA: plano contínuo próximo, movimento discreto acompanhando a ação; preservar o eixo da rua e terminar na composição do último frame fornecido.
+ÁUDIO: Falas em português brasileiro, naturais, sem sobreposição.
+
+REFERÊNCIAS
+Primeiro frame: primeiro_frame.png
+Último frame: ultimo_frame.png
+Usar as imagens como início e fim do clipe. Não alterar rosto, roupa, tatuagens, lambreta ou iluminação.

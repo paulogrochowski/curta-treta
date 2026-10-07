@@ -1,0 +1,14 @@
+﻿CLIPE 03 — Preparação
+DURAÇÃO: 8 segundos | TEMPO: 16s–24s
+
+PROMPT PARA COLAR NO FIREFLY
+Vídeo de 8 segundos, 16:9, 1080p. Live action fotorrealista, drama criminal e suspense cinematográfico. Rua residencial brasileira à noite, asfalto úmido, postes amarelos, céu azul-escuro, árvores, muros e portões. Mesmos dois homens adultos e mesmas identidades dos frames de referência. Paulo: cabelo curto escuro, óculos escuros, bermuda preta, chinelos pretos, tatuagens pretas no pescoço, peito, ombro, braço direito e panturrilha esquerda. Camiseta branca Oakley até sua retirada no clipe 03; depois permanece sem camisa. Átila: barba curta, camiseta cinza-clara, jeans azul, sapatos pretos, boné preto sob o capacete preto; boné permanece após retirar o capacete. Lambreta elétrica preta com banco permanece estacionada à direita após o clipe 01. Luz e cenário constantes, anatomia natural. Sem sangue, ferimentos explícitos, armas, gore, animação, aparência 3D, legendas, texto sobreposto ou personagens adicionais.
+
+AÇÃO: Átila pergunta: “Cê tá armado?” Paulo responde: “Não.” Paulo retira a camiseta branca e a joga no chão à esquerda. Átila diz: “Então vou tirar o meu capacete.” e começa a removê-lo. Ao final Paulo está sem camisa e Átila segura o capacete já fora da cabeça.
+CÂMERA: plano contínuo próximo, movimento discreto acompanhando a ação; preservar o eixo da rua e terminar na composição do último frame fornecido.
+ÁUDIO: Falas em português brasileiro e ruído da roupa.
+
+REFERÊNCIAS
+Primeiro frame: primeiro_frame.png
+Último frame: ultimo_frame.png
+Usar as imagens como início e fim do clipe. Não alterar rosto, roupa, tatuagens, lambreta ou iluminação.

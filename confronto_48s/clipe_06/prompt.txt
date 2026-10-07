@@ -1,0 +1,14 @@
+﻿CLIPE 06 — Imobilização
+DURAÇÃO: 8 segundos | TEMPO: 40s–48s
+
+PROMPT PARA COLAR NO FIREFLY
+Vídeo de 8 segundos, 16:9, 1080p. Live action fotorrealista, drama criminal e suspense cinematográfico. Rua residencial brasileira à noite, asfalto úmido, postes amarelos, céu azul-escuro, árvores, muros e portões. Mesmos dois homens adultos e mesmas identidades dos frames de referência. Paulo: cabelo curto escuro, óculos escuros, bermuda preta, chinelos pretos, tatuagens pretas no pescoço, peito, ombro, braço direito e panturrilha esquerda. Camiseta branca Oakley até sua retirada no clipe 03; depois permanece sem camisa. Átila: barba curta, camiseta cinza-clara, jeans azul, sapatos pretos, boné preto sob o capacete preto; boné permanece após retirar o capacete. Lambreta elétrica preta com banco permanece estacionada à direita após o clipe 01. Luz e cenário constantes, anatomia natural. Sem sangue, ferimentos explícitos, armas, gore, animação, aparência 3D, legendas, texto sobreposto ou personagens adicionais.
+
+AÇÃO: Paulo estabiliza a posição por cima e mantém o controle dos braços de Átila numa imobilização de jiu-jítsu, sem estrangulamento. Átila para de se debater e repousa a cabeça no asfalto. Paulo mantém o controle, ofegante, e olha para ele. Câmera se aproxima discretamente. Final tenso e silencioso; nenhum golpe adicional.
+CÂMERA: plano contínuo próximo, movimento discreto acompanhando a ação; preservar o eixo da rua e terminar na composição do último frame fornecido.
+ÁUDIO: Respiração e ambiente noturno, sem falas adicionais.
+
+REFERÊNCIAS
+Primeiro frame: primeiro_frame.png
+Último frame: ultimo_frame.png
+Usar as imagens como início e fim do clipe. Não alterar rosto, roupa, tatuagens, lambreta ou iluminação.
